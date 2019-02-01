@@ -1,0 +1,57 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/Dotnetcore.WebApi.csproj",
+    "projectName": "Dotnetcore.WebApi",
+    "projectPath": "/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/Dotnetcore.WebApi.csproj",
+    "outputPath": "/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/Dotnetcore.Domain.csproj": {
+            "projectPath": "/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/Dotnetcore.Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MediatR.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[6.0.1, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

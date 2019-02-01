@@ -1,0 +1,9 @@
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/bin/Debug/netcoreapp2.1/Dotnetcore.Domain.deps.json
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/bin/Debug/netcoreapp2.1/Dotnetcore.Domain.dll
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/bin/Debug/netcoreapp2.1/Dotnetcore.Domain.pdb
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/obj/Debug/netcoreapp2.1/Dotnetcore.Domain.csprojAssemblyReference.cache
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/obj/Debug/netcoreapp2.1/Dotnetcore.Domain.csproj.CoreCompileInputs.cache
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/obj/Debug/netcoreapp2.1/Dotnetcore.Domain.AssemblyInfoInputs.cache
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/obj/Debug/netcoreapp2.1/Dotnetcore.Domain.AssemblyInfo.cs
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/obj/Debug/netcoreapp2.1/Dotnetcore.Domain.dll
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.Domain/obj/Debug/netcoreapp2.1/Dotnetcore.Domain.pdb

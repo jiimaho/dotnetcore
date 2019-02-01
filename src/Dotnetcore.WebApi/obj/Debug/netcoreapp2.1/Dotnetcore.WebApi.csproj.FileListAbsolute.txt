@@ -1,0 +1,17 @@
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/bin/Debug/netcoreapp2.1/Dotnetcore.WebApi.deps.json
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/bin/Debug/netcoreapp2.1/Dotnetcore.WebApi.runtimeconfig.json
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/bin/Debug/netcoreapp2.1/Dotnetcore.WebApi.runtimeconfig.dev.json
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/bin/Debug/netcoreapp2.1/Dotnetcore.WebApi.dll
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/bin/Debug/netcoreapp2.1/Dotnetcore.WebApi.pdb
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/Debug/netcoreapp2.1/Dotnetcore.WebApi.csprojAssemblyReference.cache
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/Debug/netcoreapp2.1/Dotnetcore.WebApi.csproj.CoreCompileInputs.cache
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/Debug/netcoreapp2.1/Dotnetcore.WebApi.RazorAssemblyInfo.cache
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/Debug/netcoreapp2.1/Dotnetcore.WebApi.RazorAssemblyInfo.cs
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/Debug/netcoreapp2.1/Dotnetcore.WebApi.AssemblyInfoInputs.cache
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/Debug/netcoreapp2.1/Dotnetcore.WebApi.AssemblyInfo.cs
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/Debug/netcoreapp2.1/Dotnetcore.WebApi.RazorTargetAssemblyInfo.cache
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/Debug/netcoreapp2.1/Dotnetcore.WebApi.dll
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/Debug/netcoreapp2.1/Dotnetcore.WebApi.pdb
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/bin/Debug/netcoreapp2.1/Dotnetcore.Domain.dll
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/bin/Debug/netcoreapp2.1/Dotnetcore.Domain.pdb
+/Users/jim/dev/repos/jim/dotnetcore/src/Dotnetcore.WebApi/obj/Debug/netcoreapp2.1/Dotnetcore.WebApi.csproj.CopyComplete
